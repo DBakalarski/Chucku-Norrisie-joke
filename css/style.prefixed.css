@@ -1,0 +1,34 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  background: #bdc3c7;
+  color: #130f40;
+}
+
+.btn-joke {
+  text-align: center;
+  padding-top: calc(50vh - 189px);
+}
+
+.btn-joke button {
+  border: 1px solid #30336b;
+  background: #bdc3c7;
+  cursor: pointer;
+  font-size: 30px;
+  border-radius: 15px;
+  padding: 15px;
+  color: #30336b;
+}
+
+.btn-joke button:hover {
+  background: #30336b;
+  color: #bdc3c7;
+  transition: 0.2s;
+}
+
+.p-joke {
+  text-align: center;
+  font-size: 35px;
+}
+/*# sourceMappingURL=style.prefixed.css.map */
